@@ -1,0 +1,52 @@
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\obj\Debug\Anitro API.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\obj\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\obj\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Debug\Anitro API.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\obj\Debug\Anitro API.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\obj\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro API\obj\Debug\Anitro API.pdb
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\Anitro API.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\Anitro API.pdb
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\obj\Debug\Anitro API.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\obj\Debug\Anitro API.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\Anitro API\obj\Debug\Anitro API.pdb

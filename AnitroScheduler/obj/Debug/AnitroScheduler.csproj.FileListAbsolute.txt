@@ -1,0 +1,52 @@
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\Hummingbird API.dll
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\Hummingbird API.pdb
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\obj\Debug\AnitroScheduler.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\obj\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows Phone\Anitro\AnitroScheduler\obj\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\obj\Debug\AnitroScheduler.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\obj\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\obj\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\obj\Debug\AnitroScheduler.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\obj\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\AnitroScheduler\obj\Debug\AnitroScheduler.pdb

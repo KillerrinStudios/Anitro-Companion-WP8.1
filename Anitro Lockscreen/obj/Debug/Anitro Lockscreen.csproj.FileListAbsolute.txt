@@ -1,0 +1,520 @@
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\resources.pri
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AppxManifest.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.build.appxrecipe
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AppManifest.xaml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro_Lockscreen_Debug_AnyCPU.xap
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\App.g.cs
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MainPage.g.cs
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.g.resources
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro_Lockscreen.Resources.AppResources.resources
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csproj.GenerateResource.Cache
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\priconfig.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\layout.resfiles
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\resources.resfiles
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\pri.resfiles
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\qualifiers.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\qualifiers.txt.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\ProjectArchitectures.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MDILProjectFiles.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\XapCacheFile.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\App.g.cs
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\LoginPage.g.cs
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MainPage.g.cs
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.g.resources
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro_Lockscreen.Resources.AppResources.resources
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csproj.GenerateResource.Cache
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\resources.pri
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AppxManifest.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.build.appxrecipe
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AppManifest.xaml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro_Lockscreen_Debug_AnyCPU.xap
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ar-SA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\az-Latn-AZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\be-BY\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\bg-BG\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ca-ES\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\cs-CZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\da-DK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\de-DE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\el-GR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\en-GB\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\es-ES\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\es-MX\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\et-EE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fa-IR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fi-FI\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fil-PH\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fr-CA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fr-FR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\he-IL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hi-IN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hr-HR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hu-HU\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\id-ID\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\it-IT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ja-JP\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\kk-KZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ko-KR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\lt-LT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\lv-LV\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\mk-MK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ms-MY\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\nb-NO\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\nl-NL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pl-PL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pt-BR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pt-PT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ro-RO\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ru-RU\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sk-SK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sl-SI\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sq-AL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sr-Latn-CS\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sv-SE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\th-TH\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\tr-TR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\uk-UA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\uz-Latn-UZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\vi-VN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\zh-CN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\zh-TW\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http.pri
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit.pri
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\qualifiers.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\priconfig.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\layout.resfiles
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\resources.resfiles
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\pri.resfiles
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\qualifiers.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\qualifiers.txt.intermediate
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\ProjectArchitectures.txt
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MDILProjectFiles.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\XapCacheFile.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\resources.pri
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AppxManifest.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.build.appxrecipe
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AppManifest.xaml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro_Lockscreen_Debug_AnyCPU.xap
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\App.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\LoginPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MainPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\SelectionPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\SettingsPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.g.resources
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro_Lockscreen.Resources.AppResources.resources
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csproj.GenerateResource.Cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ar-SA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\az-Latn-AZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\be-BY\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\bg-BG\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ca-ES\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\cs-CZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\da-DK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\de-DE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\el-GR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\en-GB\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\es-ES\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\es-MX\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\et-EE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fa-IR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fi-FI\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fil-PH\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fr-CA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fr-FR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\he-IL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hi-IN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hr-HR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hu-HU\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\id-ID\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\it-IT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ja-JP\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\kk-KZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ko-KR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\lt-LT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\lv-LV\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\mk-MK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ms-MY\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\nb-NO\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\nl-NL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pl-PL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pt-BR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pt-PT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ro-RO\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ru-RU\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sk-SK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sl-SI\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sq-AL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sr-Latn-CS\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sv-SE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\th-TH\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\tr-TR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\uk-UA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\uz-Latn-UZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\vi-VN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\zh-CN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\zh-TW\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http.pri
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit.pri
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\qualifiers.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\priconfig.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\layout.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\resources.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\pri.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\qualifiers.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\qualifiers.txt.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\ProjectArchitectures.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\MDILProjectFiles.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\XapCacheFile.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\layout.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\Resources.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\Resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pri.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\priconfig.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Lockscreen\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\resources.pri
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\AppxManifest.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Anitro Lockscreen.build.appxrecipe
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\AppManifest.xaml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Anitro_Lockscreen_Debug_AnyCPU.xap
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\App.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\LoginPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\MainPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\SelectionPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\SettingsPage.g.cs
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.g.resources
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Anitro_Lockscreen.Resources.AppResources.resources
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.csproj.GenerateResource.Cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Anitro Lockscreen.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ar-SA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\az-Latn-AZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\be-BY\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\bg-BG\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ca-ES\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\cs-CZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\da-DK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\de-DE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\el-GR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\en-GB\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\es-ES\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\es-MX\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\et-EE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fa-IR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fi-FI\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fil-PH\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fr-CA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\fr-FR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\he-IL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hi-IN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hr-HR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\hu-HU\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\id-ID\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\it-IT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ja-JP\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\kk-KZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ko-KR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\lt-LT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\lv-LV\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\mk-MK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ms-MY\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\nb-NO\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\nl-NL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pl-PL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pt-BR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\pt-PT\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ro-RO\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\ru-RU\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sk-SK\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sl-SI\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sq-AL\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sr-Latn-CS\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\sv-SE\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\th-TH\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\tr-TR\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\uk-UA\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\uz-Latn-UZ\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\vi-VN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\zh-CN\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\zh-TW\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resw
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\System.Net.Http.pri
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit.pri
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\Microsoft.Phone.Controls.Toolkit\qualifiers.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\priconfig.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\layout.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\resources.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\pri.resfiles
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\qualifiers.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\qualifiers.txt.intermediate
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\ProjectArchitectures.txt
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\MDILProjectFiles.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\obj\Debug\XapCacheFile.xml

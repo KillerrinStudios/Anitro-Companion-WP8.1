@@ -1,0 +1,26 @@
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\Anitro Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.pdb
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\AnitroScheduler.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\AnitroScheduler.pdb
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Anitro API.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Anitro API.pdb
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\Anitro Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.dll
+C:\Users\Andrew\Documents\GitHub\Anitro\Anitro Companion\AnitroScheduler\obj\Debug\AnitroScheduler.pdb

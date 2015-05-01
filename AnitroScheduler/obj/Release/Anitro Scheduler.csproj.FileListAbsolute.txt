@@ -1,0 +1,13 @@
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\AnitroScheduler.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Release\Anitro Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Release\AnitroScheduler.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\obj\Release\AnitroScheduler.pdb

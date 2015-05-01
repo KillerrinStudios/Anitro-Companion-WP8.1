@@ -1,0 +1,26 @@
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Anitro API.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Release\Anitro API.dll
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Release\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows Phone\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Release\Anitro API.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Newtonsoft.Json.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\Newtonsoft.Json.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Release\Anitro API.dll
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Release\Anitro API.pdb
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\obj\Release\Anitro API.csprojResolveAssemblyReference.cache

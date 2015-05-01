@@ -1,0 +1,4 @@
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Anitro API.csproj;neutral
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro API\Anitro API.csproj;neutral
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\Anitro Lockscreen\Anitro Companion.csproj;neutral
+C:\Users\killer rin\Programming\Windows RT\Killerrin Studios Apps\Anitro\Anitro Companion\AnitroScheduler\Anitro Scheduler.csproj;neutral
